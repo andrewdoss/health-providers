@@ -10,6 +10,20 @@
 - /archive/ - includes larger team project/D3 visualization from CSE6242 at
 Georgia Tech
 
+### Prior Work
+
+I worked on a prototype version of this project during a semester project with
+a team at Georgia Tech. Development has stopped on that prototype, and I am now
+working on an overhaul/refinement focusing on the smaller scope of provider
+distributions and shortages at a US county level.
+
+Below is a sample screenshot from the completed D3.js prototype showing King County.
+All US Counties and Tracts are selectable. Please see the /archive/ folder for all code,
+documentation, and instructions if interested in demoing the visualization
+(only requires a Firefox web browser).
+
+![Alt text](/assets/d3_demo_pic.png?raw=true "Choropleth Bias")
+
 ### Motivation
 
 ![Alt text](/assets/prov_shortages.png?raw=true "Choropleth Bias")<br>
