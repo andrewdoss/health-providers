@@ -15,10 +15,10 @@ Georgia Tech
 I worked on a prototype version of this project during a semester project with
 a team at Georgia Tech. Development has stopped on that prototype, and I am now
 working on an overhaul/refinement focusing on the smaller scope of provider
-distributions and shortages at a US county level.
+distributions and shortages at a US county level only.
 
 Below is a sample screenshot from the completed D3.js prototype showing King County.
-All US Counties and Tracts are selectable. Please see the /archive/ folder for all code,
+All US counties and tracts are selectable. Please see the /archive/ folder for all code,
 documentation, and instructions if interested in demoing the visualization
 (only requires a Firefox web browser).
 
