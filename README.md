@@ -12,4 +12,6 @@ CSE6242 course project (does not include all database and ML pipeline files)
 
 ### Motivation
 
+To be completed soon.
+
 ![Alt text](/assets/d3_demo_pic.png?raw=true "Choropleth Bias")
