@@ -1,0 +1,37 @@
+.counties {
+  fill: none;
+  stroke: white;
+  stroke-width: 0.5;
+}
+
+.title {
+  font-family: sans-serif;
+  font-size: 22px;
+  fill: black;
+  font-weight: bold;
+  alignment-baseline: middle;
+  text-anchor: middle;
+}
+
+.leg-block {
+  stroke: gray;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+.leg-label {
+  font-family: sans-serif;
+  font-size: 14px;
+  fill: black;
+}
+
+/* Sourced from https://github.com/Caged/d3-tip/blob/master/examples/example-styles.css */
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(222, 184, 135, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}
